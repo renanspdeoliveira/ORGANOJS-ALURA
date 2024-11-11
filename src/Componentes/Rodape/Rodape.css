@@ -1,0 +1,30 @@
+.footer {
+    background-color: #6278F7;
+}
+
+
+.footer img {
+    background-repeat: no-repeat;
+    max-width: 100%;
+
+}
+
+.footer h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+
+    gap: 30px;
+
+}
+
+.footer li {
+
+    list-style-type: none;
+}
